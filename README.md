@@ -1,7 +1,3 @@
-Here’s a **README.md** you can drop into the repo. It explains the app, the math, assumptions, and how to deploy/debug on GitHub Pages.
-
----
-
 # AI Water & Carbon Footprint Calculator
 
 A single-file, client-side web app to estimate the **water** and **carbon** footprint of AI usage (e.g., ChatGPT prompts). Built for **GitHub Pages**—no backend, no tracking, fully portable.
